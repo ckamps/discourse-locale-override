@@ -1,6 +1,6 @@
 # discourse-locale-override
 
-Modified for our user
+Replaced example locale files with "en" and overrode several strings of interest to our project
 
 ## Installation on top of Docker image
 
