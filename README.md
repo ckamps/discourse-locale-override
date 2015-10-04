@@ -1,9 +1,6 @@
 # discourse-locale-override
 
-Simple plugin/boilerplate to override some of translations keys in Discourse and persist them between Docker rebuilds.
-Can be used by translators, early adopters of young locales or communities with specific slang.
-
-**This repository contains only `pl_PL` locale. See FAQ below if you need to override a different one.**
+Modified for our user
 
 ## Installation on top of Docker image
 
