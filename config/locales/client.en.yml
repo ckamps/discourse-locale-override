@@ -1,0 +1,6 @@
+en:
+  js:
+    email:
+      instructions: “Use your dot separate email address. For example, first.last@company.com”
+    username:
+      instructions: “Use your e ID. For example, e012345”
