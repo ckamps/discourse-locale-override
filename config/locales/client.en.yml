@@ -4,4 +4,4 @@ en:
       email:
         instructions: 'Use your dot separated email address. For example, first.last@company.com'
       username:
-        instructions: 'Use your employee ID or e ID. For example, e012345'
+        instructions: 'Use your standard employee ID based user name. For example, e012345'
